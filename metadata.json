@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "contract_manifest",
+  "project_id": "e00d317d-5a5c-491e-8826-5823b8989651"
+}
